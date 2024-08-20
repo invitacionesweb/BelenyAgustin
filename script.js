@@ -1,5 +1,5 @@
 // Establecer la fecha de destino (puedes ajustarla según tus necesidades)
-const fechaDestino = new Date("2024-11-23T23:59:59");
+const fechaDestino = new Date("2024-11-23T23:20:00");
 
 function actualizarContador() {
   const ahora = new Date();
